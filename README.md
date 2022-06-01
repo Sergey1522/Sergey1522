@@ -9,8 +9,8 @@
   <a href="https://vk.com/isaeff2015">
     <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="serzi6551@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="isaev.isaev152@yandex.ru">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Sergey1522&style=flat-square&color=blue" alt=""/>
