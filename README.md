@@ -29,8 +29,8 @@
  <br>
  
  I am a junior web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Nizhny Novgorod
- - :telescope: At the moment I'm not working, in active search.
-I wish you to find your place in a big company and be an active participant in a cool project.
+ - :telescope: 
+
 
 - :seedling: Exploring Technical Content Writing.
 
